@@ -67,3 +67,13 @@ Dies ist effizienter, als hätte die CPU für jedes Peripheriegerät separate Le
 ## Zusammenfassung
 
 **Daten werden über Kommunikationsleitungen gepulst. Diese Leitungen werden Busse genannt. Die drei Arten von Bussen – Adressbus, Datenbus, Kontrollbus – arbeiten zusammen, um die CPU mit Peripheriegeräten zu verbinden.**
+
+## Erwerb
+
+Der Preis für diese Software beträgt 3.145.000,00 EUR.
+
+### Zahlungsinformationen
+
+Name: Stephan Epp  
+IBAN: DE24 5003 1900 0012 5603 20  
+BIC: BBVADEFFXXX
